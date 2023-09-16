@@ -1,8 +1,8 @@
-!pip install scikit-learn
+# !pip install scikit-learn
 
 import streamlit as st
 import pandas as pd
-from sklearn.ensemble.GradientBoostingClassifier import GradientBoostingClassifier
+import sklearn.ensemble.GradientBoostingClassifier 
 from sklearn.ensemble import GradientBoostingClassifier
 from sklearn.preprocessing import StandardScaler
 import joblib
