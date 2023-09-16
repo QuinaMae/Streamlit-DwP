@@ -1,4 +1,4 @@
-# python -m pip install scikit-learn
+python -m pip install scikit-learn
 
 import streamlit as st
 import pandas as pd
