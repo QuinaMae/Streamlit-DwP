@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
-from sklearn.ensemble import GradientBoostingClassifier
 from sklearn.ensemble.GradientBoostingClassifier 
+from sklearn.ensemble import GradientBoostingClassifier
 from sklearn.preprocessing import StandardScaler
 import joblib
 from sklearn.preprocessing import LabelEncoder
